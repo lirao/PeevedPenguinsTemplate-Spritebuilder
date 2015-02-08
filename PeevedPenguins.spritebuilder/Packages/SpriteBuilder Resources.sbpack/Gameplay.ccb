@@ -56,7 +56,7 @@
 					<key>value</key>
 					<array>
 						<real>229</real>
-						<real>108.00000762939453</real>
+						<real>104.00000762939453</real>
 						<integer>0</integer>
 						<integer>0</integer>
 						<integer>0</integer>
@@ -603,7 +603,7 @@
 										<key>value</key>
 										<array>
 											<real>240</real>
-											<real>191.5</real>
+											<real>187.5</real>
 											<integer>0</integer>
 											<integer>0</integer>
 											<integer>0</integer>
@@ -862,7 +862,7 @@
 										<key>value</key>
 										<array>
 											<real>253</real>
-											<real>89.5</real>
+											<real>85.5</real>
 											<integer>0</integer>
 											<integer>0</integer>
 											<integer>0</integer>
