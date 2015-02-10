@@ -147,7 +147,6 @@
 	float energy = [pair totalKineticEnergy];
     CCLOG(@"Something collided with a seal! Energy = %f", energy);
 
-
 	// if energy is large enough, remove the seal
 	if (energy > 50000.f) {
 		//the block ensures that if seal collides more than once within a single frame, the following code only occur once per key per frame
