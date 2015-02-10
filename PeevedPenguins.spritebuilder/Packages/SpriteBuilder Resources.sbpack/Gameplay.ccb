@@ -267,8 +267,6 @@
 					<real>3000</real>
 				</dict>
 			</array>
-			<key>selected</key>
-			<true/>
 		</dict>
 	</array>
 	<key>jsControlled</key>
@@ -1242,7 +1240,7 @@
 								<key>customClass</key>
 								<string></string>
 								<key>displayName</key>
-								<string>CCNode</string>
+								<string>levelNode</string>
 								<key>memberVarAssignmentName</key>
 								<string>_levelNode</string>
 								<key>memberVarAssignmentType</key>
@@ -1265,7 +1263,7 @@
 										<key>value</key>
 										<array>
 											<real>469</real>
-											<real>47</real>
+											<real>35</real>
 											<integer>0</integer>
 											<integer>0</integer>
 											<integer>0</integer>
@@ -1309,6 +1307,8 @@
 										</array>
 									</dict>
 								</array>
+								<key>selected</key>
+								<true/>
 							</dict>
 							<dict>
 								<key>UUID</key>
