@@ -2375,9 +2375,9 @@
 			<key>name</key>
 			<string>WaitAndJump</string>
 			<key>offset</key>
-			<real>1.8815081119537354</real>
+			<real>0.6328125</real>
 			<key>position</key>
-			<real>4</real>
+			<real>0.0</real>
 			<key>resolution</key>
 			<real>30</real>
 			<key>scale</key>
@@ -2407,9 +2407,9 @@
 			<key>chainedSequenceId</key>
 			<integer>-1</integer>
 			<key>length</key>
-			<real>10</real>
+			<real>4</real>
 			<key>name</key>
-			<string>Untitled Timeline</string>
+			<string>Default Timeline</string>
 			<key>offset</key>
 			<real>0.0</real>
 			<key>position</key>
