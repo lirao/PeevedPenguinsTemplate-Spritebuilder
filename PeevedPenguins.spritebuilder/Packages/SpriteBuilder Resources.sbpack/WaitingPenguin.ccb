@@ -2373,7 +2373,7 @@
 			<key>length</key>
 			<real>4</real>
 			<key>name</key>
-			<string>WaitAndJump</string>
+			<string>BlinkAndJump</string>
 			<key>offset</key>
 			<real>0.6328125</real>
 			<key>position</key>
