@@ -147,7 +147,7 @@
 	float energy = [pair totalKineticEnergy];
 
 	// if energy is large enough, remove the seal
-	if (energy > 5000.f) {
+	if (energy > 50000.f) {
 		//the block ensures that if seal collides more than once within a single frame, the following code only occur once per key per frame
 		//In this case the key is nodeA, the seal
 		[[_physicsNode space] addPostStepBlock:^{
